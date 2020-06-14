@@ -11,3 +11,7 @@ IAL - 12.7/15b - Hamiltonova cesta a cyklus v grafu - https://github.com/ldrahni
 2018/2019
 =========
 IMS - 20/20b - Stomatologická ordinace - https://github.com/ldrahnik/ims_project_2018_2019
+
+2017/2018
+=========
+ISS - 11/12b - https://github.com/ldrahnik/iss_project_2017_2018
