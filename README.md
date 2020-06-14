@@ -5,7 +5,8 @@ Zdrojové kódy slouží pouze ke studijním účelům - plagiátorství je na V
 
 2019/2020
 =========
-ISA - 14.5/20b - DNS Resolver - https://github.com/ldrahnik/isa_project_2019_2020
+ISA - 14.5/20b - DNS Resolver - https://github.com/ldrahnik/isa_project_2019_2020 \
+IAL - 12.7/15b - Hamiltonova cesta a cyklus v grafu - https://github.com/ldrahnik/ial_project_2019_2020
 
 2018/2019
 =========
