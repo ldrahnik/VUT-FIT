@@ -10,7 +10,8 @@ IAL - 12.7/15b - Hamiltonova cesta a cyklus v grafu - https://github.com/ldrahni
 
 2018/2019
 =========
-IMS - 20/20b - Stomatologická ordinace - https://github.com/ldrahnik/ims_project_2018_2019
+IMS - 20/20b - Stomatologická ordinace - https://github.com/ldrahnik/ims_project_2018_2019 \
+IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019
 
 2017/2018
 =========
