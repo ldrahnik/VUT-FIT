@@ -16,3 +16,8 @@ IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019
 2017/2018
 =========
 ISS - 11/12b - https://github.com/ldrahnik/iss_project_2017_2018
+
+2016/2017
+=========
+IPP - 4/12b - C++ Classes v PHP 5 - https://github.com/ldrahnik/ipp_project_1_2016_2017 \
+IPP - 9/11.5b - CSV2XML v Python 3 - https://github.com/ldrahnik/ipp_project_2_2016_2017
