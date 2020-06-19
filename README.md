@@ -15,7 +15,8 @@ IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019
 
 2017/2018
 =========
-ISS - 11/12b - https://github.com/ldrahnik/iss_project_2017_2018
+ISS - 11/12b - https://github.com/ldrahnik/iss_project_2017_2018 \
+IPK - 8.625/20b - Klient-server pro jednoduchý přenos souborů - https://github.com/ldrahnik/ipk_project_1_2017_2018
 
 2016/2017
 =========
