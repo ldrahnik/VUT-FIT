@@ -11,7 +11,8 @@ IAL - 12.7/15b - Hamiltonova cesta a cyklus v grafu - https://github.com/ldrahni
 2018/2019
 =========
 IMS - 20/20b - Stomatologická ordinace - https://github.com/ldrahnik/ims_project_2018_2019 \
-IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019
+IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019 \
+IPP - 10/24b - 1. úloha v PHP 5.6 4/7b, 2. úloha v Pythonu 3.6 a testovací skript v PHP 5.6 6/17b https://github.com/ldrahnik/ipp_project_2018_2019
 
 2017/2018
 =========
