@@ -17,7 +17,8 @@ IDS - 30/34b - Pekárna - https://github.com/ldrahnik/ids_projekt_2018_2019
 =========
 ISS - 11/12b - https://github.com/ldrahnik/iss_project_2017_2018 \
 IPK - 8.625/20b - Klient-server pro jednoduchý přenos souborů - https://github.com/ldrahnik/ipk_project_1_2017_2018 \
-IAL - 10/10b - https://github.com/ldrahnik/ial_project_1_2017_2018 \
+IAL - 10/10b - 1. domácí úloha - https://github.com/ldrahnik/ial_project_1_2017_2018 \
+IAL - 10/10b - 2. domácí úloha - https://github.com/ldrahnik/ial_project_2_2017_2018 \
 ISA - 20/20b - Měření ztrátovosti a RTT - https://github.com/ldrahnik/isa_project_2017_2018 \
 IMP - 12/16b - https://github.com/ldrahnik/imp_exercises_2017_2018
 
