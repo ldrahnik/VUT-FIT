@@ -31,6 +31,11 @@ IMP - 12/16b - https://github.com/ldrahnik/imp_exercises_2017_2018
 IPP - 4/12b - C++ Classes v PHP 5 - https://github.com/ldrahnik/ipp_project_1_2016_2017 \
 IPP - 9/11.5b - CSV2XML v Python 3 - https://github.com/ldrahnik/ipp_project_2_2016_2017
 
+2014/2015
+=========
+INP - 10/10b - Řízení maticoveho displeje z FPGA - https://github.com/ldrahnik/inp_project_1_2014_2015 \
+INP - 19/20b - 8-bitový procesor (BrainFuck interpreter) - https://github.com/ldrahnik/inp_project_2_2014_2015
+
 2013/2014
 =========
 IOS - 15/15b - https://github.com/ldrahnik/ios_project_1_2013_2014 \
