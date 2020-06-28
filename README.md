@@ -30,3 +30,8 @@ IMP - 12/16b - https://github.com/ldrahnik/imp_exercises_2017_2018
 =========
 IPP - 4/12b - C++ Classes v PHP 5 - https://github.com/ldrahnik/ipp_project_1_2016_2017 \
 IPP - 9/11.5b - CSV2XML v Python 3 - https://github.com/ldrahnik/ipp_project_2_2016_2017
+
+2013/2014
+=========
+IOS - 15/15b - https://github.com/ldrahnik/ios_project_1_2013_2014 \
+IOS - 9/15b - River Crossing Problem - https://github.com/ldrahnik/ios_project_2_2013_2014
