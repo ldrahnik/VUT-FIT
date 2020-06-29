@@ -3,7 +3,7 @@
 UPOZORNĚNÍ: \
 Zdrojové kódy slouží pouze ke studijním účelům - plagiátorství je na VUT FIT přísně trestáno.
 
-Projekty jsou dále upravovány nejen dle nedostatků uvedených v dodaném hodnocení. Hodnocení je téměř vždy součástí repozitáře daného projektu. Zisk plného počtu bodů nezaručuje bezchybnost vypracování daného zadání.
+Projekty jsou dále upravovány nejen dle nedostatků uvedených v dodaném hodnocení. Zadání a hodnocení je téměř vždy součástí repozitáře daného projektu. Zisk plného počtu bodů nezaručuje bezchybnost vypracování daného zadání.
 
 
 2019/2020
