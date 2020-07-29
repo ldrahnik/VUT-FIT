@@ -24,7 +24,8 @@ IPK - 8.625/20b - Klient-server pro jednoduchý přenos souborů - https://githu
 IAL - 10/10b - 1. domácí úloha - https://github.com/ldrahnik/ial_project_1_2017_2018 \
 IAL - 10/10b - 2. domácí úloha - https://github.com/ldrahnik/ial_project_2_2017_2018 \
 ISA - 20/20b - Měření ztrátovosti a RTT - https://github.com/ldrahnik/isa_project_2017_2018 \
-IMP - 12/16b - https://github.com/ldrahnik/imp_exercises_2017_2018
+IMP - 12/16b - https://github.com/ldrahnik/imp_exercises_2017_2018 \
+IAL - 8.9/15b - Nejkratší cesta v grafu - https://github.com/ldrahnik/ial_project_2017_2018
 
 2016/2017
 =========
